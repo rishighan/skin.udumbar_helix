@@ -293,7 +293,7 @@
 			<property name="group">dvd</property>
 		</item>
 		<item id="1">
-			<label>$LOCALIZE[31031]</label>
+			<label>Recent movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultRecentlyAddedMovies.png</icon>
 			<thumb />
@@ -306,7 +306,7 @@
 			<property name="group">movies</property>
 		</item>
 		<item id="2">
-			<label>$LOCALIZE[31032]</label>
+			<label>Recommended movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultMovies.png</icon>
 			<thumb />
@@ -319,7 +319,7 @@
 			<property name="group">movies</property>
 		</item>
 		<item id="3">
-			<label>$LOCALIZE[31054]</label>
+			<label>Random movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultMovies.png</icon>
 			<thumb />
@@ -388,7 +388,7 @@
 			<property name="group">movies</property>
 		</item>
 		<item id="1">
-			<label>$LOCALIZE[31035]</label>
+			<label>Recent episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultRecentlyAddedEpisodes.png</icon>
 			<thumb />
@@ -401,7 +401,7 @@
 			<property name="group">tvshows</property>
 		</item>
 		<item id="2">
-			<label>$LOCALIZE[31036]</label>
+			<label>Recommended episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />
@@ -414,7 +414,7 @@
 			<property name="group">tvshows</property>
 		</item>
 		<item id="3">
-			<label>$LOCALIZE[31055]</label>
+			<label>Random episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />
@@ -924,7 +924,7 @@
 	</include>
 	<include name="skinshortcuts-group-movies">
 		<item id="1">
-			<label>$LOCALIZE[31031]</label>
+			<label>Recent movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultRecentlyAddedMovies.png</icon>
 			<thumb />
@@ -936,7 +936,7 @@
 			<property name="group">movies</property>
 		</item>
 		<item id="2">
-			<label>$LOCALIZE[31032]</label>
+			<label>Recommended movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultMovies.png</icon>
 			<thumb />
@@ -948,7 +948,7 @@
 			<property name="group">movies</property>
 		</item>
 		<item id="3">
-			<label>$LOCALIZE[31054]</label>
+			<label>Random movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultMovies.png</icon>
 			<thumb />
@@ -1014,7 +1014,7 @@
 	</include>
 	<include name="skinshortcuts-group-alt-movies">
 		<item id="1">
-			<label>$LOCALIZE[31031]</label>
+			<label>Recent movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultRecentlyAddedMovies.png</icon>
 			<thumb />
@@ -1027,7 +1027,7 @@
 			<property name="group">movies</property>
 		</item>
 		<item id="2">
-			<label>$LOCALIZE[31032]</label>
+			<label>Recommended movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultMovies.png</icon>
 			<thumb />
@@ -1040,7 +1040,7 @@
 			<property name="group">movies</property>
 		</item>
 		<item id="3">
-			<label>$LOCALIZE[31054]</label>
+			<label>Random movies</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultMovies.png</icon>
 			<thumb />
@@ -1111,7 +1111,7 @@
 	</include>
 	<include name="skinshortcuts-group-tvshows">
 		<item id="1">
-			<label>$LOCALIZE[31035]</label>
+			<label>Recent episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultRecentlyAddedEpisodes.png</icon>
 			<thumb />
@@ -1123,7 +1123,7 @@
 			<property name="group">tvshows</property>
 		</item>
 		<item id="2">
-			<label>$LOCALIZE[31036]</label>
+			<label>Recommended episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />
@@ -1135,7 +1135,7 @@
 			<property name="group">tvshows</property>
 		</item>
 		<item id="3">
-			<label>$LOCALIZE[31055]</label>
+			<label>Random episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />
@@ -1188,7 +1188,7 @@
 	</include>
 	<include name="skinshortcuts-group-alt-tvshows">
 		<item id="1">
-			<label>$LOCALIZE[31035]</label>
+			<label>Recent episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultRecentlyAddedEpisodes.png</icon>
 			<thumb />
@@ -1201,7 +1201,7 @@
 			<property name="group">tvshows</property>
 		</item>
 		<item id="2">
-			<label>$LOCALIZE[31036]</label>
+			<label>Recommended episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />
@@ -1214,7 +1214,7 @@
 			<property name="group">tvshows</property>
 		</item>
 		<item id="3">
-			<label>$LOCALIZE[31055]</label>
+			<label>Random episodes</label>
 			<label2>$ADDON[script.skinshortcuts 32014]</label2>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />

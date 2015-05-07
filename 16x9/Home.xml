@@ -8,6 +8,7 @@
 
 	<controls>
 		<!-- Hidden control to load weather conditions -->
+		<!-- Really not needed -->
 		<control type="label">
 			<font>-</font>
 			<label>$INFO[Weather.Conditions]</label>

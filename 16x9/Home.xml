@@ -7,7 +7,6 @@
 	<onload condition="System.HasAddon(script.favourites)">RunScript(script.favourites)</onload>
 
 	<controls>
-
 		<!-- Hidden control to load weather conditions -->
 		<control type="label">
 			<font>-</font>
